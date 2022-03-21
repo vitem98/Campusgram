@@ -1,0 +1,4 @@
+.sub-title{
+  padding: 12rpx;
+  padding-left: 24rpx;
+}
